@@ -6,7 +6,7 @@ const removeFromArray = function(array, ...args) {
             }
         }
     }
-    return array
+    return array;
 };
 
 // Do not edit below this line
